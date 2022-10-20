@@ -1,0 +1,15 @@
+Description :  To test the careers page of the Numadic site
+
+1.Based upon the user experience, first I prepared 2 test cases. Now, there were jobs which were not available for a specific location, for eg. Full time offer in mumbai. So, I created a test plan in the following way.
+
+	Test Case 01: 
+	>. Job Type: Full Time, Location: Mumbai. 
+
+	Test Case 02: 
+	>. Job Type: Full Time, Location: Goa
+
+Since, jobs were not available in Mumbai, hence I checked and prefered Goa location to check any full time offer exists at this location. if yes, then search for QA Engineer and apply for it. Moving onto the next page, i ensured "Apply here now"  button is interactable from user's perpective. 
+
+From my point of observation, all the test cases passed successfully as mentioned.  
+
+ 
